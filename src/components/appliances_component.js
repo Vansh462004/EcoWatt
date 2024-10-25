@@ -1025,8 +1025,8 @@ class AppliancesComponent extends React.Component {
                     <div className="col-xl-4 col-lg-6">
                         <div id="usage-power-info" className="card-block">
                             <div><p id="stats" className="t-head">21 kwh</p></div>
-                            <div><p className="t-title">Electricity<span id="elecvalue" className="t-content">12 kWh</span></p>
-                                <p className="t-title">Gas<span id="gasvalue" className="t-content">5 kWh</span></p></div>
+                            <div><p className="t-title">Solar Power<span id="elecvalue" className="t-content">12 kWh</span></p>
+                                <p className="t-title">Electricity Line<span id="gasvalue" className="t-content">5 kWh</span></p></div>
                         </div>
                     </div>
                 </div>
@@ -1040,3 +1040,4 @@ class AppliancesComponent extends React.Component {
 }
 
 export default AppliancesComponent;
+// comm

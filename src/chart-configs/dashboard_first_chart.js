@@ -66,10 +66,10 @@ var first_chart_today = {
     // },
 
     "data": [{
-      "label": "Electricity",
+      "label": "Solar Power",
       "value": "3.9"
     }, {
-      "label": "Gas",
+      "label": "Electricity Line",
       "value": "2.3"
     }]
   };
@@ -218,11 +218,11 @@ var first_chart_year = {
 
   data: [
     {
-      label: "Solar Generated",
+      label: "Solar Power",
       value: "1600"
     },
     {
-      label: "From Electricity Line",
+      label: "Electricity Line",
       value: "850"
     }
   ]
@@ -244,3 +244,4 @@ export default chartConfigs1;
 export { first_chart_month };
 export { first_chart_today };
 export { first_chart_year };
+// comm

@@ -193,11 +193,11 @@ var cost_last_day = {
   ],
   dataset: [
     {
-      seriesname: "Electricity",
+      seriesname: "Solar Power",
       data: electricityDataArr
     },
     {
-      seriesname: "Gas",
+      seriesname: "Electricity Line",
       data: gasDataArr
     }
   ]
@@ -296,11 +296,11 @@ var cost_this_month = {
   ],
   dataset: [
     {
-      seriesname: "Electricity",
+      seriesname: "Solar Power",
       data: electricityDataArr
     },
     {
-      seriesname: "Gas",
+      seriesname: "Electricity Line",
       data: gasDataArr
     }
   ]
@@ -379,11 +379,11 @@ var cost_last_month = {
   ],
   dataset: [
     {
-      seriesname: "Electricity",
+      seriesname: "Solar Power",
       data: electricityDataArr
     },
     {
-      seriesname: "Gas",
+      seriesname: "Electricity Line",
       data: gasDataArr
     }
   ]
@@ -481,11 +481,11 @@ var cost_this_year = {
   ],
   dataset: [
     {
-      seriesname: "Electricity",
+      seriesname: "Solar Power",
       data: electricityDataArr
     },
     {
-      seriesname: "Gas",
+      seriesname: "Electricity Line",
       data: gasDataArr
     }
   ]
@@ -563,11 +563,11 @@ var cost_last_year = {
   ],
   dataset: [
     {
-      seriesname: "Electricity",
+      seriesname: "Solar Power",
       data: electricityDataArr
     },
     {
-      seriesname: "Gas",
+      seriesname: "Electricity Line",
       data: gasDataArr
     }
   ]
