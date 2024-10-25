@@ -66,13 +66,14 @@ class ChartDetail extends Component {
             ReactDOM.unmountComponentAtNode(document.getElementById('chart1'));
 
             document.getElementById("parent1").setAttribute("class", "col-lg-6 col-xl-4");
-            document.getElementById("text1").innerHTML = "COST PREDICTED"
+            document.getElementById("text1").innerHTML = "COST ESTIMATION"
 
             document.getElementById("Dashboard").setAttribute("class", "left-option active");
             document.getElementById("Cost").setAttribute("class", "left-option");
             document.getElementById("Appliances").setAttribute("class", "left-option");
             document.getElementById("Usage-by-rooms").setAttribute("class", "left-option");
             document.getElementById("Emissions").setAttribute("class", "left-option");
+            document.getElementById("Community-LeaderBoard").setAttribute("class", "left-option");
 
             document.getElementById("bd-docs-nav").setAttribute("class", "bd-links collapse");
 

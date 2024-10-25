@@ -113,6 +113,12 @@ body {
     background-size: 24px 24px;
 }
 
+.left-options li#Community-LeaderBoard:before {
+    background-image: url('../Cost.svg');
+    background-repeat:no-repeat;
+    background-size: 24px 24px;
+}
+
 .left-options li:hover>a {
     color: #FDFDFD;
 }

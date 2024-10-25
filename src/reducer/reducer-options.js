@@ -20,6 +20,10 @@ export default function () {
         {
             id: 5,
             name: "Emissions"
+        },
+        {
+            id:6,
+            name: "Community-LeaderBoard"
         }
     ]
 }

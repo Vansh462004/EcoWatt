@@ -141,11 +141,11 @@ var first_chart_month = {
 
   data: [
     {
-      label: "Electricity",
+      label: "SolarPower",
       value: "139"
     },
     {
-      label: "Gas",
+      label: "ElectricityLine",
       value: "75"
     }
   ]
@@ -218,11 +218,11 @@ var first_chart_year = {
 
   data: [
     {
-      label: "Electricity",
+      label: "Solar Generated",
       value: "1600"
     },
     {
-      label: "Gas",
+      label: "From Electricity Line",
       value: "850"
     }
   ]

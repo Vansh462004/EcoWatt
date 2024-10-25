@@ -63,7 +63,7 @@ class App extends React.Component {
                         <div id="nav" className="col-12 col-md-3 col-xl-2 bd-sidebar">
                             <div className="row">
                                 <div className="col-md-12 col-8">
-                                    <div className="text-sm-left text-md-center logo">FUSiON SMART<span id="beta"> BETA</span></div>
+                                    <div className="text-sm-left text-md-center logo">Eco Watt</div>
                                 </div>
                                 <div className="col-md-12 col-4 text-right">
                                     {/* <!-- for menu when screen width is less--> */}
@@ -86,7 +86,7 @@ class App extends React.Component {
                         <div id="content-body" className="col-12 col-md-9 col-xl-10 pl-4 pr-4 bd-content">
                             {/* <!-- heading row --> */}
                             <div className="row">
-                                <div className="col-md-12 pt-4 mt-3"><h2>Energy Dashboard</h2></div>
+                                <div className="col-md-12 pt-4 mt-3"><h2>Solar Energy Dashboard</h2></div>
                             </div>
                             {/* <!-- heading row end-->
         
@@ -122,13 +122,13 @@ class App extends React.Component {
                                 </div>
                                 <div id="parent3" className="col-lg-6 col-xl-4">
                                     <div className="chart-card mb-4">
-                                        <div className="chart-title" id="text3">USAGE ESTIMATE</div>
+                                        <div className="chart-title" id="text3">SOLAR USAGE ESTIMATE</div>
                                         <div id="chart3" className="chart">Chart 3</div>
                                     </div>
                                 </div>
                                 <div id="parent4" className="col-lg-6 col-xl-4">
                                     <div className="chart-card mb-4">
-                                        <div className="chart-title" id="text4">ACTIVE APPLIANCES</div>
+                                        <div className="chart-title" id="text4">ACTIVE APPLIANCES using SOLAR</div>
                                         <div id="chart4" className="chart">Chart 4</div>
                                     </div>
                                 </div>
@@ -154,8 +154,8 @@ class App extends React.Component {
                     <!-- energy tip start --> */}
                             <div className="row">
                                 <div className="col-md-12 pb-3">
-                                    <span className="footer-text-1">Energy Tip: </span><span className="footer-text-2">On warm days, setting a programmable thermostat to a higher setting when you are not at home can help reduce your energy costs
-                            by approximately 10 percent.</span>
+                                    <span className="footer-text-1">Energy Tip: </span><span className="footer-text-2">On warm days, setting a programmable Panel memory to a higher setting, can help you increase your energy generation
+                            by approximately 8-10 percent!!!</span>
                                 </div>
                             </div>
 
