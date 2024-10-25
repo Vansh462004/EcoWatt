@@ -101,6 +101,12 @@ body {
     background-size: 24px 24px;
 }
 
+.left-options li#Data-Insights:before {
+    background-image: url('../Appliances.svg');
+    background-repeat:no-repeat;
+    background-size: 24px 24px;
+}
+
 .left-options li#Usage-by-rooms:before {
     background-image: url('../Usage_by_rooms.svg');
     background-repeat:no-repeat;

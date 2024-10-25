@@ -23,6 +23,10 @@ export default function () {
         },
         {
             id:6,
+            name: "Data-Insights"
+        },
+        {
+            id:7,
             name: "Community-LeaderBoard"
         }
     ]

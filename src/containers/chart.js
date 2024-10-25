@@ -73,6 +73,7 @@ class ChartDetail extends Component {
             document.getElementById("Appliances").setAttribute("class", "left-option");
             document.getElementById("Usage-by-rooms").setAttribute("class", "left-option");
             document.getElementById("Emissions").setAttribute("class", "left-option");
+            document.getElementById("Data-Insights").setAttribute("class", "left-option");
             document.getElementById("Community-LeaderBoard").setAttribute("class", "left-option");
 
             document.getElementById("bd-docs-nav").setAttribute("class", "bd-links collapse");
