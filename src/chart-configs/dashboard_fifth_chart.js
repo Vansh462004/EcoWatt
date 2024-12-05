@@ -1,5 +1,5 @@
 //import moment from 'moment';
-var dayVal = "1.6";
+var dayVal = "8.9";
 //var dayDetail = moment().format('MMMM, Do YYYY');
 
 var fifth_chart_today = {
@@ -206,7 +206,7 @@ var fifth_chart_month = {
         }]
     }
 };
-var yearVal = "556";
+var yearVal = "8.9";
 //var yearDetail = moment().format('YYYY');
 
 var fifth_chart_year = {
