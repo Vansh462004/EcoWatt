@@ -63,7 +63,7 @@ var fifth_chart_today = {
              {
                 "id": "3",
                 "type": "text",
-                "text": "kWh",
+                "text": "₹/kWh",
                 "align": "center",
                 "font": "Nunito Sans",
                 "bold": "0",
@@ -167,7 +167,7 @@ var fifth_chart_month = {
             }, {
                 "id": "3",
                 "type": "text",
-                "text": "kWh",
+                "text": "₹/kWh",
                 "align": "center",
                 "font": "Nunito Sans",
                 "bold": "0",
@@ -270,7 +270,7 @@ var fifth_chart_year = {
             }, {
                 "id": "3",
                 "type": "text",
-                "text": "kWh",
+                "text": "₹/kWh",
                 "align": "center",
                 "font": "Nunito Sans",
                 "bold": "0",
