@@ -63,7 +63,7 @@ var fifth_chart_today = {
              {
                 "id": "3",
                 "type": "text",
-                "text": "kWh/Sqft",
+                "text": "kWh",
                 "align": "center",
                 "font": "Nunito Sans",
                 "bold": "0",
@@ -103,7 +103,7 @@ var fifth_chart_today = {
     }
 };
 
-var monthVal = "47";
+var monthVal = "8.9";
 //var monthDetail = moment().format('MMMM YYYY');
 
 var fifth_chart_month = {
@@ -167,7 +167,7 @@ var fifth_chart_month = {
             }, {
                 "id": "3",
                 "type": "text",
-                "text": "kWh/Sqft",
+                "text": "kWh",
                 "align": "center",
                 "font": "Nunito Sans",
                 "bold": "0",
@@ -270,7 +270,7 @@ var fifth_chart_year = {
             }, {
                 "id": "3",
                 "type": "text",
-                "text": "kWh/Sqft",
+                "text": "kWh",
                 "align": "center",
                 "font": "Nunito Sans",
                 "bold": "0",

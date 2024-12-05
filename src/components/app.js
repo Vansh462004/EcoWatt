@@ -134,7 +134,7 @@ class App extends React.Component {
                                 </div>
                                 <div id="parent5" className="col-lg-6 col-xl-4">
                                     <div className="chart-card mb-4">
-                                        <div className="chart-title" id="text5">ENERGY INTENSITY</div>
+                                        <div className="chart-title" id="text5">Real-Time Tariff</div>
                                         <div id="chart5" className="chart">Chart 5</div>
                                     </div>
                                 </div>
