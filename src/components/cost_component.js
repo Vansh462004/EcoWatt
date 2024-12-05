@@ -48,9 +48,9 @@ class CostComponent extends React.Component {
             document.getElementById("co-tablecell-value1").innerHTML = "$" + todayArr[1];
 
             var sftVal = 0;
-            // eslint-disable-next-line
+    
             for (var i = 0; i < parseInt(moment().format('H')); i++) {
-                // eslint-disable-next-line
+              
                 sftVal = sftVal + parseFloat(todayElecSplit[i]) + parseFloat(todayGasSplit[i]);
             }
             sftVal = Math.round(sftVal * 100) / 100;
